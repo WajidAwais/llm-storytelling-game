@@ -30,5 +30,3 @@ backend/sessions/*.json
 .pytest_cache/
 .coverage
 htmlcov/
-
-temp_interactive_push.bat
